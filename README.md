@@ -4,6 +4,14 @@ What started as a personal hobby building and modifying minibikes eventually gre
 
 I also purchased, rebuilt, modified, and resold minibikes through Facebook Marketplace. Across these projects, I gained hands-on experience with mechanical assembly, drivetrain setup, fabrication, troubleshooting, component selection, testing, and client communication.
 
+## Self-Directed Learning
+
+My experience with small engines and minibikes developed largely through self-directed learning. I spent significant time researching engine operation, drivetrain systems, component compatibility, performance modifications, and safe build practices using technical resources, manufacturer information, and educational content on YouTube.
+
+I applied that research through hands-on builds, testing, troubleshooting, and iteration. Over time, what began as a hobby progressed into rebuilding and reselling minibikes as well as completing custom engine and minibike work for clients.
+
+This process taught me how to independently research unfamiliar mechanical systems, apply technical information to real hardware, identify problems during testing, and refine a build based on the results.
+
 ## Skills Demonstrated
 
 - Small-engine disassembly and reassembly
