@@ -8,15 +8,19 @@ I did not record every step of this build, but I still had photos from before an
 
 ### Before
 
-![Minibike rolling frame before Predator 212 installation](IMG_1357.PNG)
+![Minibike rolling frame before Predator 212 installation](ssss.png)
 
-*The minibike as I originally bought it before installing the engine and drivetrain.*
+*The minibike as I originally bought it before installing the Predator 212 and drivetrain.*
 
 ### After
 
-![Completed Predator 212 torque converter minibike](IMG_1356.PNG)
+![Completed Predator 212 torque converter minibike side view](IMG_1356.PNG)
 
-*The completed bike after installing the Predator 212, drivetrain, and other components.*
+*Completed Predator 212 build after the engine and drivetrain were installed.*
+
+![Completed Predator 212 torque converter minibike front view](IMG_1357.PNG)
+
+*Another view of the completed bike showing the finished engine installation and overall setup.*
 
 ## Engine Setup
 
