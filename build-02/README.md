@@ -6,6 +6,18 @@ I bought this minibike as a rolling frame and decided to rebuild it with a Preda
 
 I did not record every step of this build, but I still had photos from before and after the transformation and remembered the main problems I had to solve during the build.
 
+### Before
+
+![Minibike rolling frame before Predator 212 installation](IMG_1357.PNG)
+
+*The minibike as I originally bought it before installing the engine and drivetrain.*
+
+### After
+
+![Completed Predator 212 torque converter minibike](IMG_1356.PNG)
+
+*The completed bike after installing the Predator 212, drivetrain, and other components.*
+
 ## Engine Setup
 
 After getting the Predator 212, I installed it into the frame and added an aftermarket exhaust to improve exhaust flow. I also installed the throttle/linkage setup needed to connect the hand throttle to the engine.
@@ -58,7 +70,3 @@ This was one of the parts of the build where I had to adjust my original plan af
 - Aftermarket exhaust installation
 - Used-component sourcing
 - Hands-on troubleshooting and testing
-
-## Build Photos
-
-I have photos showing the minibike as I originally purchased it and the completed Predator 212 build. These show the overall transformation even though I did not document every step of the build.
