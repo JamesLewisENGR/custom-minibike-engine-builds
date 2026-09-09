@@ -27,7 +27,7 @@ Over time I became comfortable enough with the work that I started doing custom 
 - Researching and selecting parts
 - Working with client requests
 
-## Featured Client Builds
+## Featured Builds
 
 ### Client Build #1 — Predator 212cc Governor Removal & Flywheel Upgrade
 
@@ -36,6 +36,14 @@ For this build, a client wanted the governor removed from a Predator 212cc Non-H
 I upgraded the stock flywheel to an ARC billet flywheel because the engine could now operate at higher RPM than it did with the factory governor.
 
 [View Client Build #1](client-build-01/README.md)
+
+### Build #2 — Predator 212 Torque Converter Minibike
+
+I bought this bike as a rolling frame and sourced a used Predator 212 engine from Facebook Marketplace. Because the bike was larger and had bigger tires than the smaller minibikes I had worked on, I chose a torque converter instead of a standard centrifugal clutch.
+
+The torque converter initially did not have enough clearance in the frame. I solved the fitment problem by cutting an unused section from the torque-converter mounting plate and installing an engine riser. I then measured and cut the chain for the final drivetrain setup and tested the completed bike.
+
+[View Build #2](build-02/README.md)
 
 ## About This Repository
 
