@@ -1,46 +1,44 @@
 # Custom Minibike & Engine Builds
 
-What started as a personal hobby building and modifying minibikes eventually grew into custom engine work and complete builds for other people. As I gained experience with small engines, frames, drivetrains, and performance setups, people began asking me to modify and build minibikes based on their specific goals.
+I started building and modifying minibikes as a hobby. I was interested in learning how the engines, gearing, clutches, chains, brakes, and other parts worked together, so I spent a lot of time researching different setups and then trying them myself.
 
-I also purchased, rebuilt, modified, and resold minibikes through Facebook Marketplace. Across these projects, I gained hands-on experience with mechanical assembly, drivetrain setup, fabrication, troubleshooting, component selection, testing, and client communication.
+As I got more experience, people started asking me to build and modify minibikes and engines for them. I also bought minibikes, rebuilt or modified them, and resold them on Facebook Marketplace. What started as something I did for fun eventually became a way for me to get a lot of hands-on mechanical experience while also doing builds for other people.
 
-## Self-Directed Learning
+## How I Learned
 
-My experience with small engines and minibikes developed largely through self-directed learning. I spent significant time researching engine operation, drivetrain systems, component compatibility, performance modifications, and safe build practices using technical resources, manufacturer information, and educational content on YouTube.
+Most of what I know about minibikes and small engines was self-taught. I spent a lot of time watching YouTube videos, researching parts and different builds, reading manufacturer information, and learning how different engine and drivetrain components worked.
 
-I applied that research through hands-on builds, testing, troubleshooting, and iteration. Over time, what began as a hobby progressed into rebuilding and reselling minibikes as well as completing custom engine and minibike work for clients.
+I would take what I learned and apply it to my own builds. A lot of the learning also came from actually working on the bikes, testing them, running into problems, figuring out what caused the problem, and changing the setup until it worked correctly.
 
-This process taught me how to independently research unfamiliar mechanical systems, apply technical information to real hardware, identify problems during testing, and refine a build based on the results.
+Over time I became comfortable enough with the work that I started doing custom builds and engine work for other people.
 
-## Skills Demonstrated
+## Experience From These Builds
 
 - Small-engine disassembly and reassembly
-- Custom engine modification
-- Governor and oil-sensor removal
-- High-RPM component selection
-- Clutch and torque-converter systems
+- Engine modifications
+- Clutches and torque converters
 - Sprocket selection and gear-ratio changes
 - Chain sizing, alignment, and tensioning
-- Brake-system upgrades
+- Brake upgrades
 - Engine and component fitment
 - Frame modification and fabrication
 - Mechanical troubleshooting
-- Performance testing and iterative improvement
-- Building to client requirements
-- Parts selection and cost considerations
+- Testing and improving builds
+- Researching and selecting parts
+- Working with client requests
 
 ## Featured Client Builds
 
 ### Client Build #1 — Predator 212cc Governor Removal & Flywheel Upgrade
 
-A client requested a modified Predator 212cc Non-Hemi engine for a minibike. The project involved removing the factory governor and oil sensor, addressing the secondary effects of those changes, reassembling the engine, and upgrading the flywheel for higher-RPM use.
+For this build, a client wanted the governor removed from a Predator 212cc Non-Hemi engine for his minibike. Removing the governor affected more than one part of the engine, so I also had to deal with the oil-sensor removal, openings left in the engine, throttle/linkage changes, reassembly, and the flywheel.
 
-This build is documented in detail here:
+I upgraded the stock flywheel to an ARC billet flywheel because the engine could now operate at higher RPM than it did with the factory governor.
 
 [View Client Build #1](client-build-01/README.md)
 
 ## About This Repository
 
-Many minibike builds follow a similar overall process, so this repository focuses on representative projects that show different mechanical decisions, modifications, and troubleshooting challenges rather than documenting every build separately.
+I have built and worked on a lot of minibikes, and many of them follow the same general process. Instead of making a separate page for every bike I have worked on, I am using this repository to document some of the builds that show different problems, modifications, and decisions I had to make.
 
-The goal is to show the reasoning behind the work, not just the finished bikes.
+The goal is to show both the finished projects and how I approached the work along the way.
