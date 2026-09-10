@@ -6,6 +6,8 @@ For this project, a client wanted me to remove the governor from a Predator 212c
 
 The build included taking the engine apart, removing the governor and oil sensor, sealing the openings left behind, explaining the throttle/linkage changes to the client, putting the engine back together, and upgrading the flywheel for the higher-RPM setup.
 
+🎥 **[Watch the Complete Client Build Playlist on YouTube](https://www.youtube.com/playlist?list=PLcigjzDv7mFA)**
+
 ## What the Client Wanted
 
 The main thing the client asked me to do was remove the factory governor. I documented the work throughout the process so the client could see what I was doing and understand the changes being made to the engine.
@@ -57,6 +59,8 @@ With the governor removed, the engine could operate above its original governed 
 After finishing the engine and putting everything back together, the engine was installed in the client's minibike. The final video shows the completed bike running after the work was finished.
 
 🎥 **[Final Video — Completed Minibike Running](https://www.youtube.com/shorts/mw3aD7MwfxM)**
+
+🎬 **[Watch the Complete Client Build Playlist](https://www.youtube.com/playlist?list=PLcigjzDv7mFA)**
 
 ## What I Learned / Applied
 
