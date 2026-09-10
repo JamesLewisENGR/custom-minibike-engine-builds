@@ -55,6 +55,13 @@ Once the engine and torque converter were positioned correctly, I measured the c
 
 I cut the chain to the required length, installed it, and checked the drivetrain setup. After everything was assembled, the system operated correctly.
 
+## Final Running Test
+
+After completing the engine, torque converter, and chain installation, I tested the finished bike to make sure the drivetrain operated correctly under actual riding conditions.
+
+**Video — Completed Predator 212 Torque Converter Minibike Running**  
+https://www.youtube.com/shorts/ZZWAUYt-qH0
+
 ## Problem and Solution
 
 **Problem:** The torque converter did not have enough clearance when installed with the Predator 212 in the original engine position.
