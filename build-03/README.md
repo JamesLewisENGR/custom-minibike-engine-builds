@@ -12,6 +12,10 @@ This build ended up involving both frame fitment and engine troubleshooting befo
 
 ## Reconstructing the Frame
 
+![Original mismatched minibike frame sections before assembly](Copy%20of%20IMG_1278.JPG)
+
+*The starting point of the build. The main frame section came from Facebook Marketplace, while the front section with the handlebars and front wheel came from a local garage sale.*
+
 The front frame section I found at the garage sale did not fit the main frame correctly. The connection point between the two pieces needed additional clearance before they could be assembled properly.
 
 I drilled out the mounting hole at the connection point until I could get the two frame sections to fit together correctly. Once they were connected, I checked the assembled frame and made sure the bike felt rigid and the components fit correctly before moving on to the cosmetic work.
