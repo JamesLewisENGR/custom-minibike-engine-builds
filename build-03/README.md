@@ -24,15 +24,24 @@ One of the areas I checked was the valve lash. I adjusted the valve clearance to
 
 That adjustment got the engine to the point where it would start, but it still did not run correctly.
 
+**Video — Valve Lash & Compression Adjustment**  
+https://www.youtube.com/shorts/23CD02xvUkc
+
 ## Carburetor & Air-Fuel Troubleshooting
 
-After fixing the starting/compression problem, the engine would only stay running when I gave it more throttle than it should have needed. That made me look at the carburetor and fuel mixture as the next possible problem.
+After fixing the starting/compression problem, the engine would start but would not stay running normally without additional throttle. That made me look at the carburetor and fuel mixture as the next possible problem.
+
+**Video — Engine Starts but Won't Stay Running**  
+https://www.youtube.com/shorts/RBjapZqcUFQ
 
 I worked on the carburetor in two ways. I changed the jetting based on the engine setup and local elevation around Mill Creek, Washington, and I adjusted the carburetor's air-fuel mixture setting until the engine ran correctly.
 
 I also installed an aftermarket exhaust to reduce exhaust restriction and improve flow.
 
 The engine troubleshooting was a process of fixing one problem, testing the engine again, and then using how it behaved to decide what I needed to check next.
+
+**Video — Final Engine Running After Troubleshooting**  
+https://www.youtube.com/shorts/8UTL5iFzT3Q
 
 ## Final Assembly & Paint
 
@@ -41,6 +50,16 @@ Before painting anything, I made sure the engine fit correctly in the bike and t
 Once I knew the mechanical setup worked, I took the bike back apart and moved on to the painting and cosmetic work. After the paint and other visual work were finished, I reassembled everything and tested the completed bike.
 
 The final result was a good-running minibike built from mismatched used frame components and an engine that originally did not run.
+
+## Finished Build
+
+![Completed minibike build](Copy%20of%20IMG_1354.PNG)
+
+*Completed minibike after the frame reconstruction, engine restoration, final assembly, and paint.*
+
+![Completed minibike build alternate view](Copy%20of%20IMG_1355.PNG)
+
+*Another view of the finished build.*
 
 ## Problems & Solutions
 
@@ -70,7 +89,3 @@ The final result was a good-running minibike built from mismatched used frame co
 - Disassembly and reassembly
 - Surface finishing and painting
 - Functional testing and iteration
-
-## Photos & Videos
-
-Photos and troubleshooting videos will be added here after they are uploaded.
