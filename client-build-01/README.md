@@ -20,31 +20,31 @@ I documented the work throughout the process so the client could see what I was 
 
 Before starting the work, I recorded an overview explaining what I planned to remove from the Predator 212 and what I would be doing to the engine during the project.
 
-🎥 **[Video 1 — Project Overview](https://www.youtube.com/shorts/vO1HkppnFe4)**
+🎥 **[Video 1 — Project Overview](https://www.youtube.com/shorts/olJybV_sIkk)**
 
 ### 2. Governor & Oil Sensor Removed
 
 After opening the engine, I removed the factory governor and oil sensor. In this video, I show the components that I removed from the engine.
 
-🎥 **[Video 2 — Governor & Oil Sensor Removed](https://www.youtube.com/shorts/BcZdxoNGwN0)**
+🎥 **[Video 2 — Governor & Oil Sensor Removed](https://www.youtube.com/shorts/dZSufybwonU)**
 
 ### 3. Throttle & Carburetor Linkage Explained
 
 Removing the governor changes how the original throttle and carburetor linkage works because parts of the factory linkage are connected to the governor system. In this video, I explain the throttle and carburetor linkage and what would need to be addressed with the new setup.
 
-🎥 **[Video 3 — Throttle & Carburetor Linkage Explained](https://www.youtube.com/shorts/FEO9C8goLRc)**
+🎥 **[Video 3 — Throttle & Carburetor Linkage Explained](https://www.youtube.com/shorts/YpnuP0PxABw)**
 
 ### 4. Openings That Needed to Be Sealed
 
 After removing the governor and oil sensor, openings were left in the engine. Before putting the internal components back in and closing the engine, I showed the areas that needed to be sealed so they would not become oil-leak points.
 
-🎥 **[Video 4 — Openings That Needed to Be Sealed](https://www.youtube.com/shorts/YpnuP0PxABw)**
+🎥 **[Video 4 — Openings That Needed to Be Sealed](https://www.youtube.com/shorts/FEO9C8goLRc)**
 
 ### 5. Engine Plugs
 
 I used plugs to seal the openings left after removing the governor and oil sensor. In this video, I show the plugs I used for the engine before continuing with reassembly.
 
-🎥 **[Video 5 — Engine Plugs](https://www.youtube.com/shorts/dZSufybwonU)**
+🎥 **[Video 5 — Engine Plugs](https://www.youtube.com/shorts/BcZdxoNGwN0)**
 
 ### 6. Engine Reassembly & ARC Billet Flywheel
 
@@ -54,7 +54,7 @@ With the governor removed, the engine could operate above its original governed 
 
 **[ARC 6625 Billet Flywheel — Component Reference](https://www.gopowersports.com/arc-billet-flywheel-212cc-non-hemi-predator/)**
 
-🎥 **[Video 6 — Engine Reassembly & ARC Billet Flywheel](https://www.youtube.com/shorts/olJybV_sIkk)**
+🎥 **[Video 6 — Engine Reassembly & ARC Billet Flywheel](https://www.youtube.com/shorts/vO1HkppnFe4)**
 
 ## Final Engine Test
 
