@@ -10,7 +10,9 @@ The build included taking the engine apart, removing the governor and oil sensor
 
 ## What the Client Wanted
 
-The main thing the client asked me to do was remove the factory governor. I documented the work throughout the process so the client could see what I was doing and understand the changes being made to the engine.
+The client wanted both the factory governor and the oil sensor removed. The governor removal was the main performance modification. He also wanted the oil sensor removed because these sensors can sometimes give inaccurate readings or shut the engine off even when the oil level is acceptable.
+
+I documented the work throughout the process so the client could see what I was doing and understand the changes being made to the engine.
 
 ## Build Process & Video Documentation
 
