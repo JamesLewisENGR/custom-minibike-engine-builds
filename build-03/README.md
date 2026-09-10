@@ -10,6 +10,8 @@ I also bought a used Predator 212 engine from Facebook Marketplace that was adve
 
 This build ended up involving both frame fitment and engine troubleshooting before I could finish and paint the bike.
 
+🎥 **[Watch the Complete Build #3 Playlist on YouTube](https://www.youtube.com/watch?v=23CD02xvUkc&list=PLELtLXpTOJso)**
+
 ## Reconstructing the Frame
 
 ![Original mismatched minibike frame sections before assembly](Frame%20Apart)
@@ -46,6 +48,8 @@ The engine troubleshooting was a process of fixing one problem, testing the engi
 
 **Video — Final Engine Running After Troubleshooting**  
 https://www.youtube.com/shorts/8UTL5iFzT3Q
+
+🎬 **[Watch the Complete Build #3 Playlist](https://www.youtube.com/watch?v=23CD02xvUkc&list=PLELtLXpTOJso)**
 
 ## Final Assembly & Paint
 
