@@ -12,7 +12,7 @@ This build ended up involving both frame fitment and engine troubleshooting befo
 
 ## Reconstructing the Frame
 
-![Original mismatched minibike frame sections before assembly](Copy%20of%20IMG_1278.JPG)
+![Original mismatched minibike frame sections before assembly](Frame%20Apart)
 
 *The starting point of the build. The main frame section came from Facebook Marketplace, while the front section with the handlebars and front wheel came from a local garage sale.*
 
@@ -57,11 +57,11 @@ The final result was a good-running minibike built from mismatched used frame co
 
 ## Finished Build
 
-![Completed minibike build](Copy%20of%20IMG_1354.PNG)
+![Completed minibike build](Finished%20Photo%20%231)
 
 *Completed minibike after the frame reconstruction, engine restoration, final assembly, and paint.*
 
-![Completed minibike build alternate view](Copy%20of%20IMG_1355.PNG)
+![Completed minibike build alternate view](Finished%20Photo%20%232)
 
 *Another view of the finished build.*
 
