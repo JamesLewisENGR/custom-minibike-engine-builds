@@ -45,6 +45,14 @@ The torque converter initially did not have enough clearance in the frame. I sol
 
 [View Build #2](build-02/README.md)
 
+### Build #3 — Frame Reconstruction & Predator 212 Restoration
+
+This build started with mismatched used frame sections and a non-running Predator 212. I modified the frame connection so the two sections would fit together, then troubleshot the engine instead of replacing it.
+
+The engine work included checking and adjusting valve lash, diagnosing a run-quality problem, and tuning the carburetor until the engine ran correctly. After confirming the frame and engine setup worked, I disassembled the bike for paint, reassembled it, and tested the completed build.
+
+[View Build #3](build-03/README.md)
+
 ## About This Repository
 
 I have built and worked on a lot of minibikes, and many of them follow the same general process. Instead of making a separate page for every bike I have worked on, I am using this repository to document some of the builds that show different problems, modifications, and decisions I had to make.
