@@ -4,7 +4,7 @@
 
 For this project, a client wanted me to remove the governor from a Predator 212cc Non-Hemi engine for his minibike. I knew removing the governor was going to affect more than just one part of the engine, so I planned out the other things I would need to address while I had the engine apart.
 
-The build included taking the engine apart, removing the governor and oil sensor, plugging the openings left behind, explaining the throttle/linkage changes to the client, putting the engine back together, and upgrading the flywheel for the higher-RPM setup.
+The build included taking the engine apart, removing the governor and oil sensor, sealing the openings left behind, explaining the throttle/linkage changes to the client, putting the engine back together, and upgrading the flywheel for the higher-RPM setup.
 
 ## What the Client Wanted
 
@@ -12,53 +12,51 @@ The main thing the client asked me to do was remove the factory governor. I docu
 
 ## Build Process & Video Documentation
 
-The videos below are arranged in the order I documented the project.
+### 1. Project Overview
 
-### 1. Predator 212 Governor Removal — Project Overview
+Before starting the work, I recorded an overview explaining what I planned to remove from the Predator 212 and what I would be doing to the engine during the project.
 
-With the governor removed, the engine could operate above its original governed RPM range. Because of that, I did not want to keep the stock cast flywheel in a setup intended to run at higher RPM.
+🎥 **[Video 1 — Project Overview](https://www.youtube.com/shorts/vO1HkppnFe4)**
 
-I replaced it with an **ARC 6625 billet aluminum flywheel** made for the Predator 212cc Non-Hemi platform and intended for performance applications.
+### 2. Governor & Oil Sensor Removed
+
+After opening the engine, I removed the factory governor and oil sensor. In this video, I show the components that I removed from the engine.
+
+🎥 **[Video 2 — Governor & Oil Sensor Removed](https://www.youtube.com/shorts/BcZdxoNGwN0)**
+
+### 3. Throttle & Carburetor Linkage Explained
+
+Removing the governor changes how the original throttle and carburetor linkage works because parts of the factory linkage are connected to the governor system. In this video, I explain the throttle and carburetor linkage and what would need to be addressed with the new setup.
+
+🎥 **[Video 3 — Throttle & Carburetor Linkage Explained](https://www.youtube.com/shorts/FEO9C8goLRc)**
+
+### 4. Openings That Needed to Be Sealed
+
+After removing the governor and oil sensor, openings were left in the engine. Before putting the internal components back in and closing the engine, I showed the areas that needed to be sealed so they would not become oil-leak points.
+
+🎥 **[Video 4 — Openings That Needed to Be Sealed](https://www.youtube.com/shorts/YpnuP0PxABw)**
+
+### 5. Engine Plugs
+
+I used plugs to seal the openings left after removing the governor and oil sensor. In this video, I show the plugs I used for the engine before continuing with reassembly.
+
+🎥 **[Video 5 — Engine Plugs](https://www.youtube.com/shorts/dZSufybwonU)**
+
+### 6. Engine Reassembly & ARC Billet Flywheel
+
+After the governor and oil sensor were removed and the openings were sealed, I put the internal engine components back into the engine. In this video, I show the components back in place and the ARC billet flywheel that I was going to install.
+
+With the governor removed, the engine could operate above its original governed RPM range. Because of that, I chose an **ARC 6625 billet aluminum flywheel** made for the Predator 212cc Non-Hemi platform and intended for performance applications instead of keeping the stock cast flywheel for the modified setup.
 
 **[ARC 6625 Billet Flywheel — Component Reference](https://www.gopowersports.com/arc-billet-flywheel-212cc-non-hemi-predator/)**
 
-🎥 **[Predator 212 Governor Removal — Project Overview](https://www.youtube.com/shorts/vO1HkppnFe4)**
-
-### 2. Predator 212 Governor Removal — Governor & Oil Sensor Removed
-
-Removing the governor and oil sensor left openings in the engine that needed to be sealed. I installed plugs and used Loctite thread locker to help prevent them from backing out from engine vibration.
-
-🎥 **[Predator 212 Governor Removal — Governor & Oil Sensor Removed](https://www.youtube.com/shorts/BcZdxoNGwN0)**
-
-### 3. Predator 212 Governor Removal — Throttle & Carburetor Linkage Explained
-
-I showed the openings left after removing the governor and oil sensor and explained why they needed to be plugged before final assembly.
-
-🎥 **[Predator 212 Governor Removal — Throttle & Carburetor Linkage Explained](https://www.youtube.com/shorts/FEO9C8goLRc)**
-
-### 4. Predator 212 Governor Removal — Sealing Governor & Oil Sensor Openings
-
-I explained to the client that the stock throttle and carburetor linkage would not work exactly the same after removing the governor. The original setup uses parts of the governor linkage, so the new setup would need additional linkage hardware or a different configuration.
-
-🎥 **[Predator 212 Governor Removal — Sealing Governor & Oil Sensor Openings](https://www.youtube.com/shorts/YpnuP0PxABw)**
-
-### 5. Predator 212 Governor Removal — Installing & Securing Engine Plugs
-
-I removed the parts needed to open the engine and access the governor and oil sensor. I then removed both systems and recorded the inside of the engine so the client could see that the work had been completed.
-
-🎥 **[Predator 212 Governor Removal — Installing & Securing Engine Plugs](https://www.youtube.com/shorts/dZSufybwonU)**
-
-### 6. Predator 212 Governor Removal — ARC Billet Flywheel Upgrade
-
-I also recorded an overview explaining the components involved in the modification and the work being done to the engine.
-
-🎥 **[Predator 212 Governor Removal — ARC Billet Flywheel Upgrade](https://www.youtube.com/shorts/olJybV_sIkk)**
+🎥 **[Video 6 — Engine Reassembly & ARC Billet Flywheel](https://www.youtube.com/shorts/olJybV_sIkk)**
 
 ## Final Engine Test
 
-After I finished the engine and put everything back together, it was installed in the client's minibike and run to make sure the engine operated after the work was completed.
+After finishing the engine and putting everything back together, the engine was installed in the client's minibike. The final video shows the completed bike running after the work was finished.
 
-🎥 **[Predator 212 Governor Removal — Final Engine Test](https://www.youtube.com/shorts/mw3aD7MwfxM)**
+🎥 **[Final Video — Completed Minibike Running](https://www.youtube.com/shorts/mw3aD7MwfxM)**
 
 ## What I Learned / Applied
 
@@ -70,10 +68,11 @@ It also gave me experience communicating with a client throughout a build. I sen
 
 - Small-engine disassembly and reassembly
 - Internal engine modification
-- Mechanical troubleshooting
+- Governor and oil-sensor removal
 - Component selection and compatibility
 - Identifying and sealing possible oil-leak points
-- Using thread-locking compound
 - Throttle/linkage evaluation
+- Engine reassembly
+- Flywheel replacement
 - Client communication
 - Final operational testing
