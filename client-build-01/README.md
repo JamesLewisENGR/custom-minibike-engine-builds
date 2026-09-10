@@ -6,7 +6,7 @@ For this project, a client wanted me to remove the governor from a Predator 212c
 
 The build included taking the engine apart, removing the governor and oil sensor, plugging the openings left behind, explaining the throttle/linkage changes to the client, putting the engine back together, and upgrading the flywheel for the higher-RPM setup.
 
-🎥 **[Watch the Full Client Build Playlist on YouTube](https://www.youtube.com/watch?v=vO1HkppnFe4&list=PLcigjzDv7mFA)**
+🎥 **[Watch the Full Client Build Playlist on YouTube](https://www.youtube.com/watch?v=olJybV_sIkk&list=PLcigjzDv7mFA)**
 
 ## What the Client Wanted
 
@@ -98,4 +98,4 @@ I documented the build throughout the process:
 6. **[ARC Billet Flywheel Upgrade](https://www.youtube.com/shorts/vO1HkppnFe4)**
 7. **[Final Engine Test](https://www.youtube.com/shorts/mw3aD7MwfxM)**
 
-▶️ **[Watch the Complete YouTube Playlist](https://www.youtube.com/watch?v=vO1HkppnFe4&list=PLcigjzDv7mFA)**
+▶️ **[Watch the Complete YouTube Playlist](https://www.youtube.com/watch?v=olJybV_sIkk&list=PLcigjzDv7mFA)**
